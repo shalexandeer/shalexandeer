@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shalex</h1>
-<h3 align="center">A Visionary frontend developer from Indonesia \ mostly commit on the private repository</h3>
+<h3>A Passionate developers from Indonesia who mostly commit on the private repository</h3>
+<h5>🤝 I’m born to helping anyone who have a problems with a innovative solution</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shalexandeer&label=Profile%20views&color=0e75b6&style=flat" alt="shalexandeer" /> </p>
 
