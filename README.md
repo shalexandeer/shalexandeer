@@ -13,7 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=shalexandeer&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shalexandeer&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=python)
-![](https://github-readme-streak-stats.herokuapp.com/?user=shalexandeer&theme=dark&hide_border=false)<br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shalexandeer" alt="shalexandeer" /></a> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
